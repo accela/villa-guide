@@ -1,0 +1,17 @@
+created: 20190525184442261
+modified: 20190526125117228
+tags: guide TableOfContents
+title: Zakynthos town
+
+<$leafmap
+    tileControl
+    tile='wiki'
+    places='{"tiddler":"map_sightseeing"}'
+    zoom='13'
+    cluster='30'
+/>
+If it happens to get to town of Zakynthos there are a few places to visit like the Byzantine museum and St. Denis orthodox church.
+
+Village of Bochali is on a hill next to town, it offers a beautiful view below and to the sea. From there you can also visit the ruins of the old Venetian fortress.
+
+[img [https://www.zanteisland.com/imm/top10/gallery/bochali1.jpg]]

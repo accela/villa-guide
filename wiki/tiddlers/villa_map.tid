@@ -1,0 +1,28 @@
+created: 20190524195312439
+modified: 20190526125714115
+tags: guide
+title: villa_map
+type: application/json
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa Kardaris",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8384895324707,
+          37.82637872340794
+        ]
+      }
+    }
+  ]
+}

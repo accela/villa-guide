@@ -1,0 +1,79 @@
+created: 20190525190101354
+modified: 20190526122200466
+tags: guide
+title: cruises_map
+type: application/json
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ea0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa Kardaris",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.838414430618283,
+          37.82637024899223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fef100",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alykes",
+        "description": "Boat Tours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.769438743591305,
+          37.84141080462842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fcf000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zakynthos Port",
+        "description": "Boat Tours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.898313522338867,
+          37.78397752550851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fcf000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tsilivi",
+        "description": "Boat Tours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.868873596191406,
+          37.81439492742204
+        ]
+      }
+    }
+  ]
+}

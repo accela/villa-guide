@@ -1,0 +1,29 @@
+created: 20190525181604576
+modified: 20190526120455332
+tags: guide TableOfContents
+title: Restaurants
+
+<$leafmap
+    tileControl
+    tile='wiki'
+    places='{"tiddler":"restaurant_map"}'
+    zoom='10'
+    cluster='0'
+/>
+
+This is a list with a few restaurants we recommend. 
+Be warned that local cuisine tends to be a bit strong and rich in flavors.
+
+Vardiola: [[tripadvisor|https://www.tripadvisor.com/Restaurant_Review-g8473134-d8650218-Reviews-or10-Vardiola_Restaurant-Drosia_Zakynthos_Ionian_Islands.html]]
+
+Balcony: [[homepage|https://balconyhotel.gr/restaurant/]] [[tripadvisor|https://www.tripadvisor.com/Restaurant_Review-g775851-d3208681-Reviews-Balcony_Blue_and_Sea_Restaurant-Tsilivi_Zakynthos_Ionian_Islands.html]]
+
+Malanos: [[tripadvisor|https://www.tripadvisor.com/Restaurant_Review-g189462-d3193368-Reviews-Malanos-Zakynthos_Ionian_Islands.html]]
+
+Theodoritsis: [[tripadvisor|https://www.tripadvisor.com/Restaurant_Review-g659971-d7020092-Reviews-Theodoritsis_Restaurant-Argassi_Zakynthos_Ionian_Islands.html]]
+
+Plaka Beach: [[homepage|http://www.plakabeach.gr/#restaurant]] [[tripadvisor|https://www.tripadvisor.com/Restaurant_Review-g776001-d4498820-Reviews-or10-Plaka_Beach-Vasilikos_Zakynthos_Ionian_Islands.html]]
+
+Aeras: [[homepage|https://aeraszakynthos.gr/]] [[tripadvisor|https://www.tripadvisor.com/Restaurant_Review-g1430492-d3378901-Reviews-Aeras_Restaurant-Porto_Vromi_Zakynthos_Ionian_Islands.html]]
+
+(Aeras restaurant is very close to 'Porto Vromi'. Well worth the stop for lunch coming back from a visit to Navagio.)

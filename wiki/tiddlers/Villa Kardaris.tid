@@ -1,0 +1,12 @@
+created: 20190524162625972
+modified: 20190526125605138
+tags: guide TableOfContents
+title: Villa Kardaris
+type: text/vnd.tiddlywiki
+
+<$leafmap
+    tileControl
+    tile='wiki'
+    places='{"tiddler":"villa_map"}'
+    zoom='15'
+/>

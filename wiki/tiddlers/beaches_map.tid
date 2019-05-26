@@ -1,0 +1,164 @@
+created: 20190525175652067
+modified: 20190526112443293
+tags: guide
+title: beaches_map
+type: application/json
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ea0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa Kardaris",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.838414430618283,
+          37.82637024899223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b5fc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Banana Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.975131988525387,
+          37.7344758710105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b6fe",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St Nicholas Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.989980697631836,
+          37.7280949075216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b7ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gerakas Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.987062454223633,
+          37.706843693268866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b4fa",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tsilivi Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.871920585632324,
+          37.816835914940846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b3f8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gaidaros Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.85931956768036,
+          37.82503551636962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b3f8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alykanas Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.780274868011475,
+          37.84159720354427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b4fa",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dafni Beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.95491886138916,
+          37.72093263937812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b3f8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Keri beach",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.836150646209717,
+          37.68460571783365
+        ]
+      }
+    }
+  ]
+}

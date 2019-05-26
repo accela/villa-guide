@@ -1,0 +1,96 @@
+created: 20190525182754058
+modified: 20190526124555035
+tags: guide
+title: map_sightseeing
+type: application/json
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1cce3e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bochali",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.89450478553772,
+          37.79076063991673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1ed040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Byzantine Museum",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.899568796157837,
+          37.787305568814666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1dcf3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Museum of D. Solomos and Other Eminent People",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.898678302764893,
+          37.78849684470596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1cce3e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Markus Catholic Church",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.89876413345337,
+          37.788619786676236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1dcf3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Denis Orthodox Church",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.89835375547409,
+          37.77821138874313
+        ]
+      }
+    }
+  ]
+}

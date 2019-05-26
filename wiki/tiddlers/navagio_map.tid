@@ -1,0 +1,218 @@
+created: 20190526110559265
+modified: 20190526111338628
+tags: guide
+title: navagio_map
+type: application/json
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ea0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa Kardaris",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.838414430618283,
+          37.82637024899223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0033ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Porto Vromi",
+        "description": "Port to shipwreck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.63507080078125,
+          37.82259903742557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0032fe",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Agios Nikolaos Port",
+        "description": "Port to shipwreck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.707082748413086,
+          37.90845010709064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b3f8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Navagio",
+        "description": "Shipwreck Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.62483549118042,
+          37.85936224671085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1dcf3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Navagio Beach Lookout",
+        "description": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.62604784965515,
+          37.861479872813675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.63455581665039,
+            37.82266683618851
+          ],
+          [
+            20.62957763671875,
+            37.81710713079405
+          ],
+          [
+            20.625629425048828,
+            37.81670030664058
+          ],
+          [
+            20.6242561340332,
+            37.81887000955133
+          ],
+          [
+            20.616016387939453,
+            37.86211514878027
+          ],
+          [
+            20.618762969970703,
+            37.86401247373357
+          ],
+          [
+            20.621509552001953,
+            37.863063817362665
+          ],
+          [
+            20.62459945678711,
+            37.86103094116189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.70699691772461,
+            37.9079083462673
+          ],
+          [
+            20.708026885986325,
+            37.90628303986326
+          ],
+          [
+            20.712146759033203,
+            37.90845010709064
+          ],
+          [
+            20.710773468017578,
+            37.9276800317787
+          ],
+          [
+            20.706825256347656,
+            37.93282521519654
+          ],
+          [
+            20.700302124023434,
+            37.93553306183642
+          ],
+          [
+            20.692062377929688,
+            37.93214823795093
+          ],
+          [
+            20.677471160888672,
+            37.92388861359015
+          ],
+          [
+            20.665626525878906,
+            37.91765943074889
+          ],
+          [
+            20.654468536376953,
+            37.91088798143104
+          ],
+          [
+            20.646400451660156,
+            37.90574126308395
+          ],
+          [
+            20.634040832519528,
+            37.89409209753477
+          ],
+          [
+            20.630435943603516,
+            37.8863701230072
+          ],
+          [
+            20.62459945678711,
+            37.879053821139635
+          ],
+          [
+            20.621681213378906,
+            37.8724143256462
+          ],
+          [
+            20.619277954101562,
+            37.86740043251356
+          ],
+          [
+            20.620994567871094,
+            37.86496111789284
+          ],
+          [
+            20.6242561340332,
+            37.86292829402713
+          ]
+        ]
+      }
+    }
+  ]
+}
