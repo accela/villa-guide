@@ -5,7 +5,7 @@ title: Cruises
 
 <$leafmap
     tileControl
-    tile='wiki'
+    tile='osm'
     places='{"tiddler":"cruises_map"}'
     zoom='11'
     cluster='0'

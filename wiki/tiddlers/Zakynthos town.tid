@@ -5,7 +5,7 @@ title: Zakynthos town
 
 <$leafmap
     tileControl
-    tile='wiki'
+    tile='osm'
     places='{"tiddler":"map_sightseeing"}'
     zoom='13'
     cluster='30'

@@ -6,7 +6,7 @@ type: text/vnd.tiddlywiki
 
 <$leafmap
     tileControl
-    tile='wiki'
+    tile='osm'
     places='{"tiddler":"villa_map"}'
     zoom='15'
 />

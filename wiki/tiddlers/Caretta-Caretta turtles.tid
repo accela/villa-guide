@@ -5,7 +5,7 @@ title: Caretta-Caretta turtles
 
 <$leafmap
     tileControl
-    tile='wiki'
+    tile='osm'
     places='{"tiddler":"turtles_map"}'
     zoom='11'
     cluster='0'

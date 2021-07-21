@@ -5,7 +5,7 @@ title: Navagio (The Shipwreck)
 
 <$leafmap
     tileControl
-    tile='wiki'
+    tile='osm'
     places='{"tiddler":"navagio_map"}'
     zoom='11'
     cluster='0'

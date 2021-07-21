@@ -5,7 +5,7 @@ title: Beaches
 
 <$leafmap
     tileControl
-    tile='wiki'
+    tile='osm'
     places='{"tiddler":"beaches_map"}'
     zoom='11'
     cluster='0'
