@@ -108,23 +108,6 @@ type: application/json
           37.77172394722805
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Plaka Beach",
-        "description": " "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.986987352371216,
-          37.729325322261175
-        ]
-      }
     }
   ]
 }
